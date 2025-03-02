@@ -2,7 +2,8 @@
 
 ⚠️ Disclaimer: This project is a work in progress and not yet ready for live trading.
 
-About
+## About
+
 An open-source trading bot for the Solana blockchain that helps users find new tokens and execute trades. It offers features similar to other popular Solana trading bots but is fully open-source, allowing anyone to verify, modify, and contribute. By hosting it yourself, you avoid fees and have full control over your trades without any restrictions.
 
 ## MVP
